@@ -47862,7 +47862,7 @@ s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.wU.prototype={
 W(a){var s=null
-return new A.oG(B.AH,"Flutter Demo",A.Zs(s,A.a0g(B.G,s,s,B.As),s),s)}}
+return new A.oG(B.AH,"Renat web",A.Zs(s,A.a0g(B.G,s,s,B.As),s),s)}}
 A.oT.prototype={
 al(){return new A.BG()}}
 A.BG.prototype={
